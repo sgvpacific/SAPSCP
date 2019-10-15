@@ -13,7 +13,7 @@
 				class="sapUiTinyMargin"
 				text="Use the sliders to resize the grids and observe their behaviour."
 				type="Information"
-				showIcon="true">
+				showIcon="false">
 		</MessageStrip>
 
 
